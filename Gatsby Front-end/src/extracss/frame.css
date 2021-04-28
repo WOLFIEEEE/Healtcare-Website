@@ -1,0 +1,35 @@
+.iframe-placeholder
+    {
+       background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&psig=AOvVaw2wZlr2zdFTOOAaVZmqkSV3&ust=1619114949375000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD-xq33j_ACFQAAAAAdAAAAABAD') 1000px 10000px no-repeat;
+    }
+h1{
+  justify-content: center; 
+  align-items: center;
+  text-align: center;
+}
+.github{
+   height: 70%;
+   width: 100%;
+   justify-content: center;
+}
+.build{
+   justify-content: center;
+
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+.foot_center{
+   justify-content: center; 
+   align-items: center;
+   text-align: center;
+}
+.boxtext{
+   justify-content: center;
+
+   display: block;
+   margin-left: 10%;
+   margin-right: 10%;
+
+}
