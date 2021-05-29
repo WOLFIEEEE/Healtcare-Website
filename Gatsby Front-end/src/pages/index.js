@@ -15,7 +15,7 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Health-Care Project"
                     meta={[
                         { name: 'description', content: 'Sample' },
                         { name: 'keywords', content: 'sample, something' },
@@ -50,7 +50,7 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Healtcrae chatbot</h3>
+                                <h3>Healtcare chatbot</h3>
                                 <p>A simple Demo of a chat bot used or should be used in medical environment</p>
                             </header>
                             <Link to="/models" className="link primary"></Link>
