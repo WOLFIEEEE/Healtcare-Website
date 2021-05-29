@@ -6,7 +6,7 @@ Pneumonia-Xray-prediction model trained using X-ray imgaes . We used CNN algrtih
 
 ### Live Model Deployed on Heroku :- https://covid-xray-detection.herokuapp.com/
 
-* Dataset is collected from Kaggle  
+### Dataset is collected from Kaggle  
 * [Pneumonia Dataset Data](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) X-ray images for healthy people from kaggle
 
 ## General info
@@ -23,4 +23,6 @@ Project is created with:
 
 * Clone the repo
 * Install requirements.txt 
-* Run app.py (you will.be ready to go ) 
+* Run wsgi.py (you will.be ready to go ) 
+
+( These are the steps to run A single model locally ) 
