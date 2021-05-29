@@ -1,4 +1,7 @@
 ## DATASET
+
+### Live Model Deployed on Heroku :- https://covid-xray-detection.herokuapp.com/
+
 * Dataset is collected from two diiferent places 
 * [Covid-Patient Data](https://github.com/ieee8023/covid-chestxray-dataset) X-ray Images for covid positive patient from Github
 * [Normal People Data](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) X-ray images for healthy people from kaggle
